@@ -1,5 +1,5 @@
 ## Time series forecasting in TensorFlow (BitPredict 💰📈)**
-The goal of this notebook is to build a series of models in an attempt to predict the price of Bitcoin.
+The goal of this notebook is to build a series of models in an attempt to predict the price of Bitcoin as at June 12th 2024
 
 ### What is a time series problem?
 
