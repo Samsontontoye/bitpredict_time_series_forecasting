@@ -16,6 +16,6 @@ The timeline can be short (seconds/minutes) or long (years/decades). And the pro
 | **Classification** | Anomaly detection, time series identification (where did this time series come from?) | Discrete (a label) |
 | **Forecasting** | Predicting stock market prices, forecasting future demand for a product, stocking inventory requirements | Continuous (a number) |
 
-In both cases above, a supervised learning approach is often used. Meaning, you'd have some example data and a label assosciated with that data.
+In both cases above, a supervised learning approach is often used. Meaning, there are some example data and a label associated with that data.
 
-For example, in forecasting the price of Bitcoin, your data could be the historical price of Bitcoin for the past month and the label could be today's price (the label can't be tomorrow's price because that's what we'd want to predict).
+For example, in forecasting the price of Bitcoin, the data could be the historical price of Bitcoin for the past month and the label could be today's price (the label can't be tomorrow's price because that's what's meant to be predicted).
